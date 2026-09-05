@@ -1,22 +1,21 @@
-# 👋 Olá! Eu sou o Luís Gustavo
+# 👋 Olá! Eu sou Luís Gustavo
 
-🎓 Sou estudante de Phython e estou começando minha jornada no mundo da tecnologia.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💻 Atualmente estou aprendendo e desenvolvendo projetos com:
-- 🐍 Python
-- 🌐 HTML & CSS
-- ⚡ JavaScript
-- 🗄️ SQL
-- 🔧 Git & GitHub
+### 🎓 Estudante | 💻 Desenvolvedor em formação
 
-> "Todo especialista já foi um iniciante."
+> *"Todo especialista um dia foi um iniciante que decidiu não desistir."*
 
- 🚀 Sobre mim
+Sou um estudante apaixonado por tecnologia e programação. 🚀  
+Atualmente estou aprendendo e aprimorando minhas habilidades em desenvolvimento de software, sempre buscando transformar ideias em projetos e aprender algo novo no processo.
 
-Sou um aluno apaixonado por tecnologia e estou sempre buscando aprender algo novo.
+---
 
-Atualmente, meu foco está em melhorar minhas habilidades de programação, criar projetos e transformar o conhecimento que adquiro nos estudos em coisas práticas.
+## 🧑‍💻 Sobre mim
 
-📚 Estudando constantemente  
-💡 Criando projetos para praticar  
-🎯 Buscando evoluir um pouco todos os dias  
+- 🎓 Sou estudante de **[seu curso]**
+- 🌱 Atualmente estou aprendendo **[tecnologia/linguagem]**
+- 💡 Tenho interesse em **desenvolvimento web, programação e tecnologia**
+- 🚀 Buscando evoluir um pouco todos os dias
+- 🎯 Meu objetivo é me tornar um **desenvolvedor cada vez melhor**
+- 📚 Gosto de aprender através de projetos e desafios
